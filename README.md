@@ -33,8 +33,10 @@ An interactive spatial decision-support platform designed for hazard assessment,
 2. **Install Required Dependencies**:
    ```bash
    pip install -r requirements.txt
+   
 3. **Launch the application**:
   ```bash
-   streamlit run app.py 
+   streamlit run app.py
+ ```
 4. **Access the Interface**:
    Open your browser and navigate to http://localhost:8501.
